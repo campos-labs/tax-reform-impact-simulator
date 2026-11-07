@@ -1,0 +1,17 @@
+[project]
+name = "tax-reform-impact-simulator"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Rogerio Campos", email = "rogerio.campos07@gmail.com" }
+]
+requires-python = ">=3.14.8"
+dependencies = []
+
+[project.scripts]
+tax-reform-impact-simulator = "tax_reform_impact_simulator:main"
+
+[build-system]
+requires = ["uv_build>=0.13.1,<0.14.0"]
+build-backend = "uv_build"
