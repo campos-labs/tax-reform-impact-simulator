@@ -15,4 +15,3 @@ Conectar o workspace de desenvolvimento a uma branch de trabalho deste repositó
 A fundação técnica validará build e instalação da wheel, importação no Notebook, publicação do Environment e sincronização de ida e volta. Os itens reais e esses testes serão entregues nas Issues de execução.
 
 Referências: [conexão Git](https://learn.microsoft.com/en-us/fabric/cicd/git-integration/git-get-started), [tipos suportados](https://learn.microsoft.com/en-us/fabric/cicd/git-integration/intro-to-git-integration), [Environment](https://learn.microsoft.com/en-us/fabric/data-engineering/environment-git-and-deployment-pipeline) e [Lakehouse](https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-git-deployment-pipelines).
-

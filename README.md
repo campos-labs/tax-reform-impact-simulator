@@ -15,4 +15,3 @@ A estrutura-alvo de código, testes e referências está no DESIGN. Os component
 As pesquisas permanecem no `project-hub`. Aplicam-se a [governança](https://github.com/campos-labs/.github/blob/main/CONTRIBUTING.md) e a [política de segurança](https://github.com/campos-labs/.github/blob/main/SECURITY.md) da organização. Dados reais permanecem fora do Git.
 
 [Licença MIT](LICENSE).
-

@@ -184,4 +184,3 @@ tax-reform-impact-simulator/
 * [Plataforma CBS e calculadora oficial](https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/manuais/reforma-tributaria-do-consumo/manual-plataforma-cbs-21-maio-2026-07h40.pdf): referência externa conforme a cobertura e versão disponíveis.
 * [Direct Lake](https://learn.microsoft.com/en-us/fabric/fundamentals/direct-lake-overview), [SQL Analytics Endpoint](https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-sql-analytics-endpoint) e [segurança](https://learn.microsoft.com/en-us/fabric/security/permission-model).
 * [Definições Git do Fabric](https://learn.microsoft.com/en-us/fabric/cicd/git-integration/source-code-format) e [limites do PBIX](https://learn.microsoft.com/en-us/power-bi/create-reports/service-export-to-pbix).
-
