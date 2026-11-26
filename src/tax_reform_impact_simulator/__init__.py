@@ -1,2 +1,1 @@
-def main() -> None:
-    print("Hello from tax-reform-impact-simulator!")
+"""Pacote Python do Simulador de Impacto da Reforma Tributária."""
